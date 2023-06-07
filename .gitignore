@@ -1,0 +1,5 @@
+src/.securities/private.key
+src/.securities/public.key
+src/.securities/project-keys.json
+
+node_modules/

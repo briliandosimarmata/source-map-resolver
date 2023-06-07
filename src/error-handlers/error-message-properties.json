@@ -1,0 +1,11 @@
+{
+    "InvalidProjectKey": "Project key invalid",
+    "TokenNotFound": "Header 'Auth-Token' must be present.",
+    "InvalidToken": "Auth-Token you provided are invalid.",
+    "InvalidPayload": "Properties [{0}] not found.",
+    "InvalidFormat": "Payload [rawSourceMap: {0}] is not in JSON string format.",
+    "InvalidSourceMap": "Properties [{0}] of source map were not found.",
+    "UnreadbleStack": "Cannot read stack and get stack location.",
+    "SourceMapNotFound": "Cannot find source map for '{0}'. Probably source map not uploaded yet.",
+    "MappedLocationNotFound": "Cannot map location for source '{0}' at line {1} and column {2}."
+}
